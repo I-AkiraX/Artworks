@@ -6,11 +6,11 @@
 
 ## `ABOUT📝`
 
-This repository contains all the paintings, drawings, designs and everything created by me.
+This repository contains all the paintings, drawings, designs and everything else created by me.
 
 ##
 
-## `PLATFORMS USED🖼`
+## `SOFTWARES USED🖼`
 
 ✨ [Krita](https://krita.org/en/download/krita-desktop/)  
 ✨ [Illustrator](https://www.adobe.com/in/products/illustrator/free-trial-download.html)  
