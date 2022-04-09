@@ -16,12 +16,12 @@ This repository contains all the paintings, drawings, designs and everything els
 ✨ [Illustrator](https://www.adobe.com/in/products/illustrator/free-trial-download.html)  
 ✨ [Sketchbook](https://www.sketchbook.com/apps)  
 ✨ [Gimp](https://www.gimp.org/downloads/)  
-✨ [Inkscape](https://www.gimp.org/downloads/)  
+✨ [Inkscape](https://inkscape.org/release/inkscape-1.1.2/)  
 ✨ [Pen and Paper]()  
 
 ##
 
-## `NAVIGATION`
+## `NAVIGATE`
 
 ✨ [`Digital Paintings`](DigitalPaintings): Paintings, letterings created digitally using Krita, Sketchbook and Illustrator.  
 ✨ [`Logos`](Logos): Logos  made using Gimp and Inkscape.  
